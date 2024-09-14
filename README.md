@@ -1,0 +1,1 @@
+# odoo_from_scratch
